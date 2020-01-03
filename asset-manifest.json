@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/target_qr_generator/static/css/main.d1b05096.chunk.css",
+    "main.js": "/target_qr_generator/static/js/main.2d31eda3.chunk.js",
+    "main.js.map": "/target_qr_generator/static/js/main.2d31eda3.chunk.js.map",
+    "runtime-main.js": "/target_qr_generator/static/js/runtime-main.9bd499d8.js",
+    "runtime-main.js.map": "/target_qr_generator/static/js/runtime-main.9bd499d8.js.map",
+    "static/js/2.4f26dfce.chunk.js": "/target_qr_generator/static/js/2.4f26dfce.chunk.js",
+    "static/js/2.4f26dfce.chunk.js.map": "/target_qr_generator/static/js/2.4f26dfce.chunk.js.map",
+    "index.html": "/target_qr_generator/index.html",
+    "precache-manifest.df192934bf79dcd6c55b356b0b6765e9.js": "/target_qr_generator/precache-manifest.df192934bf79dcd6c55b356b0b6765e9.js",
+    "service-worker.js": "/target_qr_generator/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/target_qr_generator/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.4f26dfce.chunk.js.LICENSE": "/target_qr_generator/static/js/2.4f26dfce.chunk.js.LICENSE",
+    "static/media/logo.svg": "/target_qr_generator/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bd499d8.js",
+    "static/js/2.4f26dfce.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.2d31eda3.chunk.js"
+  ]
+}
