@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Target QR Generator",
+  "name": "Target QR Code Generator with Branch Links",
   "icons": [
     {
       "src": "favicon.ico",
